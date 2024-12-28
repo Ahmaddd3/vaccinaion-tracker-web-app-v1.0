@@ -8,6 +8,7 @@
 4. **API-Endpunkte**: Eine Übersicht der wichtigsten Endpunkte des Backends.
 5. **Swagger**: Beispiele-Requests.
 
+P.S. Die restliche FrontEnd-Datei ist zu groß, aber der Haupt-Code ist unter "src" enthalten.
 
 Diese `README.md`-Datei sollte dir helfen, den aktuellen Stand des Projekts zu verstehen und es korrekt auszuführen.
 
